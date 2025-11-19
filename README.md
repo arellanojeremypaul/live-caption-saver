@@ -31,17 +31,7 @@ A powerful **C++** application that captures **Chrome Live Captions** and conver
 - **C++**: Core language used for high-performance real-time text capture.
 - **Chrome API**: To capture Chrome's Live Captions data.
 
-## 📞 Contact
 
-Feel free to reach out if you have any questions or want to contribute!
-
-Telegram: [@bypassy](https://t.me/bypassy)
-
-Discord: bypassy
-
-Whatsapp: +44 7767328564
-
-Skype: live:.cid.258b728263fb7085
 
 ## 🛠️ Contributing
 
