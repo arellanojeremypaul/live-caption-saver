@@ -31,12 +31,6 @@ A powerful **C++** application that captures **Chrome Live Captions** and conver
 - **C++**: Core language used for high-performance real-time text capture.
 - **Chrome API**: To capture Chrome's Live Captions data.
 
-
-
-## 🛠️ Contributing
-
-Contributions are welcome! Fork this repository, create a new branch, and submit a pull request.
-
 ## 📝 License
 
 This project is licensed under the MIT License.
