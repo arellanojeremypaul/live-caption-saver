@@ -29,7 +29,7 @@ A powerful **C++** application that captures **Chrome Live Captions** and conver
 ## 🔧 Technologies Used
 
 - **C++**: Core language used for high-performance real-time text capture.
-- **Chrome API**: To capture Chrome's Live Captions data.
+- **No OCR**: This tool extracts text directly from Chrome’s Live Caption pop-up window without using OCR, making it lightweight, fast, and fully local with no network traffic required.
 
 ## 📝 License
 
