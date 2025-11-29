@@ -3,6 +3,19 @@
 ![Demo](Demo.gif)
 A powerful **C++** application that captures **Chrome Live Captions** and converts them to **text in real-time**. Perfect for improving accessibility, saving transcripts, or analyzing spoken content from videos—especially useful for job interviews or conversations with GPT-powered AI tools. <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arellanojeremypaul.live-caption-saver" />
 
+# 👋 Hi, I'm Jeremy Arellano
+
+🚀 **AI/ML Engineer | Software Developer | .NET / C++ / Java Specialist**
+
+I'm passionate about creating scalable, intelligent, and accessible applications that bridge technology and human needs.  
+Currently working on **AI-driven accessibility tools** and real-time applications using modern frameworks.
+
+## 🧠 About Me
+
+- 💼 Software Engineer experienced in **C++, C#, Java, and .NET Framework**
+- 🤖 Enthusiastic about **AI/ML applications**, automation, and assistive technology
+- 💡 Focused on transforming ideas into high-impact software solutions
+
 ## 🎯 Features
 
 - **Real-time Text Capture**: Instantly converts Chrome Live Captions into plain text.
@@ -38,3 +51,11 @@ This project is licensed under the MIT License.
 ## 🌐 Keywords
 
 **C++**, **Live-Caption**, **Text-Capture**, **Job-Interviews**, **GPT**, **Speech-to-Text**, **Chrome-API**, **Accessibility**, **Multi-Language-Support**, **Real-Time**
+
+## 🧭 Goals for 2025
+
+- 🚀 Launch 3 open-source AI or .NET projects  
+- 💬 Share tech insights via blog posts  
+- 🎯 Contribute to accessibility-focused open-source tools  
+
+⭐️ *If you find my work useful, please consider giving a star!*
