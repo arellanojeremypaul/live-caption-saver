@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## 🌐 Keywords
 
-**C++**, **Live-Caption**, **Text-Capture**, **Job-Interviews**, **GPT**, **Speech-to-Text**, **Chrome-API**, **Accessibility**, **Multi-Language-Support**, **Real-Time**
+**C++**, **Live-Caption**, **Text-Capture**, **Job-Interviews**, **GPT**, **Speech-to-Text**, **Chrome-API**, **Accessibility**, **Multi-Language-Support**, **Real-Time**,  **Audio-To-Text**,  **Voice-To-Text**,  **Speech-Recognition**,  **Audio-To-Text**, **Transcription**, **caption-generator**
 
 ## 🧭 Goals for 2025
 
